@@ -1,0 +1,16 @@
+# Ignore raw data files
+Data/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore OS metadata (if you're on Mac)
+.DS_Store
