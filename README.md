@@ -7,13 +7,15 @@ The goal is to predict which passengers were transported to an alternate dimensi
 
 ## Project Structure
 
-spaceship-titanic/
-├── Data/ # Contains raw data files (not tracked by Git)
-├── Notebooks/ # Jupyter notebook
-├── .gitignore # Files and folders excluded from version control
-├── README.md # You are reading it
+spaceship-titanic/   
+├── Data/ # Contains raw data files (not tracked by Git)   
+├── Notebooks/  
+│   └── spaceship_titanic.ipynb # Jupyter notebook  
+├── .gitignore # Files and folders excluded from version control  
+├── README.md # You are reading it  
 
---
+
+
 
 ## Project Goals
 
@@ -32,7 +34,7 @@ spaceship-titanic/
 - Jupyter Notebooks
 - Git + GitHub
 
----
+
 
 ## Status
 
