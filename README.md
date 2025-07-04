@@ -39,7 +39,7 @@ spaceship-titanic/
 ## Status
 
 - [x] Project initialized
-- [ ] Exploratory Data Analysis
+- [x] Exploratory Data Analysis
 - [ ] Feature Engineering
 - [ ] Modeling & Evaluation
 - [ ] Final Submission & Interpretation
