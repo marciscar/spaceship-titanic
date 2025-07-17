@@ -11,6 +11,8 @@ spaceship-titanic/
 ├── Data/ # Contains raw data files (not tracked by Git)   
 ├── Notebooks/  
 │   └── spaceship_titanic.ipynb # Jupyter notebook  
+├── Submission/
+│   └── submission.csv # File with model predictions 
 ├── .gitignore # Files and folders excluded from version control  
 ├── README.md # You are reading it  
 
@@ -35,14 +37,20 @@ spaceship-titanic/
 - Git + GitHub
 
 
-
 ## Status
 
 - [x] Project initialized
 - [x] Exploratory Data Analysis
 - [x] Feature Engineering
 - [x] Modeling & Evaluation
-- [ ] Final Submission & Interpretation
+- [x] Final Submission & Interpretation
+
+
+## Results & Submission
+
+After testing multiple models, the final selected model was a Neural Network, achieving 0.81 accuracy and macro F1-score on the validation set.
+
+The final predictions were exported to [`submission.csv`](Submissions/submission.csv) and are ready for submission to Kaggle.
 
 
 ## Acknowledgements
