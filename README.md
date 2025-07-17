@@ -50,7 +50,7 @@ spaceship-titanic/
 
 After testing multiple models, the final selected model was a Neural Network, achieving 0.81 accuracy and macro F1-score on the validation set.
 
-The final predictions were exported to [`submission.csv`](Submissions/submission.csv) and are ready for submission to Kaggle.
+The final predictions were exported to [`submission.csv`](Submission/submission.csv) and are ready for submission to Kaggle.
 
 
 ## Acknowledgements
