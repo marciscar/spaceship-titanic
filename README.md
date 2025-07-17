@@ -40,8 +40,8 @@ spaceship-titanic/
 
 - [x] Project initialized
 - [x] Exploratory Data Analysis
-- [ ] Feature Engineering
-- [ ] Modeling & Evaluation
+- [x] Feature Engineering
+- [x] Modeling & Evaluation
 - [ ] Final Submission & Interpretation
 
 
